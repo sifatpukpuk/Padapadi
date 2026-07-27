@@ -14,14 +14,14 @@
   "language": "en",
   "notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
   "nickNameBot": "🌀𓊆✦ 𝗦𝗶𝗺𝗼 ✦ 𝗕𝗼𝘁•𝗩𝗶𝗽𓊇🌀",
-  "prefix": "!",
+  "prefix": "/",
   "adminOnly": {
     "enable": true,
     "ignoreCommand": []
   },
   "adminBot": [
-    "100085064047077",
-    "100094743971861",
+    "61590786987616",
+    "61592087962474",
     "61551863041567"
   ],
   "whiteListMode": {
